@@ -13,10 +13,9 @@ German
 
 * Tagesschau (tagesschau.php) 
 * Lage der Nation (ldn.php)
+* Wohlstanf für Alle (wfa.php)
 
 
 ## Author
-
-Contributors names and contact info
 
 [Martin Hocquel](https://0verflow.de)
