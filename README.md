@@ -19,4 +19,4 @@ German
 
 Contributors names and contact info
 
-ex. [Martin Hocquel](https://0verflow.de)
+[Martin Hocquel](https://0verflow.de)
