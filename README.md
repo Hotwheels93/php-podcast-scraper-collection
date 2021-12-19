@@ -7,8 +7,10 @@ Come back soon to get updates and feel free to contribute or fork.
 
 ### List of available languages ### 
 
+German
+
 ### List of available podcasts ### 
 
-## Tagesschau ##
-## Lage der Nation ##
+Tagesschau (tagesschau.php)
+Lage der Nation (ldn.php)
 
