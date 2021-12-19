@@ -11,7 +11,12 @@ German
 
 ### List of available podcasts ### 
 
-#### Tagesschau (tagesschau.php) ####
-#### Lage der Nation (ldn.php) ####
+* Tagesschau (tagesschau.php) 
+* Lage der Nation (ldn.php)
 
 
+## Author
+
+Contributors names and contact info
+
+ex. [Martin Hocquel](https://0verflow.de)
